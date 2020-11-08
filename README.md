@@ -1,4 +1,4 @@
-# Notepad3 Monokai Theme
+# Monokai Theme for Notepad3 
 A Monokai-like Theme for Notepad3 , mostly came from VS code.
 
 照着 VS Code 的 Monokai 主题撸出来的 Notepad3 主题。支持的格式还不全
