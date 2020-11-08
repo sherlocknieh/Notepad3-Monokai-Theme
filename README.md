@@ -15,4 +15,5 @@ A Monokai-like Theme for Notepad3 , mostly came from VS code.
 用法：
 
 Notepad3 -> 外观 -> 自定义语法高亮方案 -> 导入
+
 或者把它扔到 %APPDATA%\Rizonesoft\Notepad3\\themes 目录下
