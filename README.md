@@ -8,7 +8,7 @@ A Monokai-like Theme for Notepad3 , mostly came from VS code.
 - Python
 - Java
 - Json
-- ini
+- ini / conf
 - XML
 - Markdown
 
