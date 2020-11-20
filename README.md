@@ -11,6 +11,8 @@ A Monokai-like Theme for Notepad3 , mostly came from VS code.
 - ini / conf
 - XML
 - Markdown
+- Powershell
+
 
 用法：
 
