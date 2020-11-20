@@ -2,7 +2,9 @@
 A Monokai-like Theme for Notepad3
 
 照着 VS Code 的 Monokai 主题撸出来的 Notepad3 主题。支持的格式还不全
+
 目前已支持的格式有：
+
 Currently supported format: 
 
 - TXT
