@@ -1,7 +1,7 @@
 # Monokai Theme for Notepad3
 
 
-![120117700-0748ea00-c1c1-11eb-83fd-4f08c7a6421a](https://user-images.githubusercontent.com/43476643/122053182-18c4ff80-ce19-11eb-8ced-19a9f41a1eb2.jpg)
+![屏幕截图 2021-06-15 203848](https://user-images.githubusercontent.com/43476643/122054283-1b742480-ce1a-11eb-9e7f-385bb79bf9e0.jpg)
 
 
 照着 VS Code 的 Monokai 主题撸出来的 Notepad3 主题。支持的格式还不全  
