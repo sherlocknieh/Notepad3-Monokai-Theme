@@ -8,7 +8,7 @@
 A Monokai-like Theme for Notepad3  
 
 目前已支持的格式有：  
-Currently supported format: 
+Currently supported formats: 
   
 - TXT
 - C/C++
